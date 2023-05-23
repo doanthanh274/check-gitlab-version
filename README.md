@@ -1,6 +1,6 @@
 # Check gitlab version
 
-This tool were created for checking gitlab version of the server by comparing the hash from manifest.json with provided list.
+This tool were created for checking gitlab version of multiple server by comparing the hash from manifest.json with provided list.
 
 ## Installation
 ```
