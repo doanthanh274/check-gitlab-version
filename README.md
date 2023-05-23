@@ -12,4 +12,4 @@ python3 check-gitlab-version.py -t update
 ![image](image/image1.png)
 
 ## References
-[Righel Gitlab NSE](https://github.com/righel/gitlab-version-nse)
+https://github.com/righel/gitlab-version-nse
