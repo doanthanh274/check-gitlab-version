@@ -2,6 +2,13 @@
 
 This tool were created for checking gitlab version of the server by comparing the hash from manifest.json with provided list.
 
+## Installation
+```
+git clone https://github.com/dt022/check-gitlab-version
+cd check-gitlab-version
+python3 check-gitlab-version.py -u example.com
+```
+
 ## Usage
 ```
 python3 check-gitlab-version.py -u example.com
